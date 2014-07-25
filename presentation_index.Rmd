@@ -1,0 +1,16 @@
+---
+title: "Presentation Demo"
+author: "Erika Deal"
+date: "July 25, 2014"
+output: 
+  revealjs_presentation:
+    self_contained: false
+    lib_dir: libs
+    theme: simple
+---
+
+# This is an example
+
+# Of a POC presentation
+
+
