@@ -1,0 +1,3 @@
+# POC Presentation Template
+
+This template can be used to create Reveal.JS presentations in RStudio. To start a project, copy this repository's URL and then go to New Project > Version Control > Git and enter the URL and destination folder. RStudio will clone the project and make all the files available to the editor. Slides can be added and edited in presentation_index.md. If you want to change some styles, the stylesheet is located in libs > reveal.js-2.6.1 > css > theme > simple.css.  
