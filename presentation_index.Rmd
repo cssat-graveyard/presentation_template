@@ -9,8 +9,44 @@ output:
     theme: simple
 ---
 
-# This is an example
+# Example Section Title
 
-# Of a POC presentation
+## This slide is for section details
 
+You can add text or images here
+
+## Example image slide {.image-bg data-background="img/woman_and_boy.jpg"}
+
+## Two images {.double-image}
+Add '{.double-image}' to the header to create a layout with two equal-width images side by side. If you want text on the slide above the images, wrap them in a div with class "image-wrap."
+
+<div class="image-wrap">
+
+![data chart](img/maltreatment-by-race-wa.png)
+
+![data chart](img/children-under-5-ooh.png)
+
+</div>
+
+# Second section
+
+---
+Image slide here 
+
+## Another level 2 slide {.align-left}
+Add '{.align-left}' to the header to create a slide with left-aligned text and no image.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Text and image {.img-right}
+<div class="text">
+Add '{.img-right}' to the header to create a layout with the image on the right and text on the left. '{.img-left}' will put the image on the left and text on the right. Be sure to wrap the text in a div with a class of "text".
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+</div>
+![data chart](img/maltreatment-by-race-wa.png)
 
